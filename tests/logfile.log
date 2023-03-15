@@ -1,0 +1,385 @@
+2023-03-06 16:19:56,461 :INFO :test_0001 :Opened https://electrodom.com.ua
+2023-03-06 16:19:56,528 :INFO :test_0001 :Navigated to personal cabinet
+2023-03-06 16:19:56,584 :INFO :test_0001 :Started registration process
+2023-03-06 16:19:56,629 :INFO :test_0001 :Entered the full nameNew Customer
+2023-03-06 16:19:56,704 :INFO :test_0001 :Entered email address41232453@gmail.com
+2023-03-06 16:19:56,774 :INFO :test_0001 :Entered passwordiomaguire
+2023-03-06 16:20:23,474 :INFO :test_0001 :Opened https://electrodom.com.ua
+2023-03-06 16:20:23,533 :INFO :test_0001 :Navigated to personal cabinet
+2023-03-06 16:20:23,643 :INFO :test_0001 :Started registration process
+2023-03-06 16:20:23,720 :INFO :test_0001 :Entered the full nameNew Customer
+2023-03-06 16:20:23,796 :INFO :test_0001 :Entered email address41233@gmail.com
+2023-03-06 16:20:23,868 :INFO :test_0001 :Entered passwordiomaguire
+2023-03-06 16:20:26,933 :INFO :test_0001 :Verified the popup message
+2023-03-06 16:23:43,537 :INFO :test_0001 :Opened https://electrodom.com.ua
+2023-03-06 16:23:43,606 :INFO :test_0001 :Navigated to personal cabinet
+2023-03-06 16:23:43,730 :INFO :test_0001 :Started registration process
+2023-03-06 16:23:43,809 :INFO :test_0001 :Entered the full nameNew Customer
+2023-03-06 16:23:43,878 :INFO :test_0001 :Entered email address41233@gmail.com
+2023-03-06 16:23:43,949 :INFO :test_0001 :Entered passwordiomaguire
+2023-03-06 16:24:03,688 :INFO :test_0001 :Opened https://electrodom.com.ua
+2023-03-06 16:24:03,770 :INFO :test_0001 :Navigated to personal cabinet
+2023-03-06 16:24:03,902 :INFO :test_0001 :Started registration process
+2023-03-06 16:24:03,968 :INFO :test_0001 :Entered the full nameNew Customer
+2023-03-06 16:24:04,049 :INFO :test_0001 :Entered email address413@gmail.com
+2023-03-06 16:24:04,101 :INFO :test_0001 :Entered passwordiomaguire
+2023-03-06 16:24:09,099 :INFO :test_0001 :Verified the popup message
+2023-03-06 17:02:40,539 :INFO :test_0001 :Opened https://electrodom.com.ua
+2023-03-06 17:02:40,614 :INFO :test_0001 :Navigated to personal cabinet
+2023-03-06 17:02:40,674 :INFO :test_0001 :Started registration process
+2023-03-06 17:02:40,782 :INFO :test_0001 :Entered the full nameNew Customer
+2023-03-06 17:02:40,859 :INFO :test_0001 :Entered email address413@gmail.com
+2023-03-06 17:02:40,925 :INFO :test_0001 :Entered passwordiomaguire
+2023-03-06 17:18:37,367 :INFO :test_0001 :Opened https://electrodom.com.ua
+2023-03-06 17:18:37,453 :INFO :test_0001 :Navigated to personal cabinet
+2023-03-06 17:18:37,527 :INFO :test_0001 :Started registration process
+2023-03-06 17:18:37,666 :INFO :test_0001 :Entered the full nameNew Customer
+2023-03-06 17:18:37,753 :INFO :test_0001 :Entered expired email address
+2023-03-06 17:18:37,819 :INFO :test_0001 :Entered passwordiomaguire
+2023-03-06 17:20:25,425 :INFO :test_0001 :Opened https://electrodom.com.ua
+2023-03-06 17:20:25,527 :INFO :test_0001 :Navigated to personal cabinet
+2023-03-06 17:20:25,588 :INFO :test_0001 :Started registration process
+2023-03-06 17:20:25,646 :INFO :test_0001 :Entered the full nameNew Customer
+2023-03-06 17:20:25,742 :INFO :test_0001 :Entered expired email address
+2023-03-06 17:20:25,811 :INFO :test_0001 :Entered passwordiomaguire
+2023-03-06 17:21:03,327 :INFO :test_0002 :Opened https://electrodom.com.ua
+2023-03-06 17:21:03,412 :INFO :test_0002 :Navigated to personal cabinet
+2023-03-06 17:21:03,582 :INFO :test_0002 :Started registration process
+2023-03-06 17:21:03,704 :INFO :test_0002 :Entered the full nameNew Customer
+2023-03-06 17:21:03,779 :INFO :test_0002 :Entered expired email address
+2023-03-06 17:21:03,855 :INFO :test_0002 :Entered passwordiomaguire
+2023-03-06 18:46:25,465 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 18:46:25,559 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 18:47:15,425 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 18:47:15,506 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 18:48:32,865 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 18:48:32,953 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 18:48:33,044 :INFO :test_0003 :Password entered
+2023-03-06 18:48:33,465 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 18:48:33,548 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 18:53:17,919 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 18:53:18,023 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:03:45,632 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:03:45,691 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:04:48,174 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:04:48,236 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:06:20,070 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:06:20,163 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:07:19,224 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:07:19,304 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:07:59,781 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:07:59,854 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:09:22,953 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:09:23,033 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:11:56,703 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:11:56,796 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:13:16,599 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:13:16,665 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:15:32,562 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:15:32,642 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:15:32,734 :INFO :test_0003 :This is currently in your email field
+2023-03-06 19:46:47,178 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:46:47,364 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:46:47,652 :INFO :test_0003 :Email successfully entered
+2023-03-06 19:48:56,752 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:48:56,913 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:48:57,138 :INFO :test_0003 :Email successfully entered
+2023-03-06 19:48:57,287 :INFO :test_0003 :Password successfully entered
+2023-03-06 19:49:35,832 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:49:36,064 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:49:36,223 :INFO :test_0003 :Email successfully entered
+2023-03-06 19:49:36,374 :INFO :test_0003 :Password successfully entered
+2023-03-06 19:50:02,988 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-06 19:50:03,156 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-06 19:50:03,277 :INFO :test_0003 :Email successfully entered
+2023-03-06 19:50:03,390 :INFO :test_0003 :Password successfully entered
+2023-03-07 12:27:19,507 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 12:27:19,518 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 12:28:54,506 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 12:28:54,515 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 12:30:48,203 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 12:31:19,593 :INFO :test_0001 :Opened https://electrodom.com.ua
+2023-03-07 12:31:19,650 :INFO :test_0001 :Navigated to personal cabinet
+2023-03-07 12:31:19,706 :INFO :test_0001 :Started registration process
+2023-03-07 12:31:19,770 :INFO :test_0001 :Entered the full nameNew Customer
+2023-03-07 12:31:19,897 :INFO :test_0001 :Entered email addressvazari@bigmir.net
+2023-03-07 12:31:19,969 :INFO :test_0001 :Entered passwordiomaguire
+2023-03-07 12:31:40,607 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 12:31:40,616 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 12:34:17,460 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 12:34:26,816 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 12:34:35,030 :INFO :test_0003 :Email successfully entered
+2023-03-07 12:34:38,920 :INFO :test_0003 :Password successfully entered
+2023-03-07 12:37:32,098 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 12:37:32,156 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 12:37:32,221 :INFO :test_0003 :Email successfully entered
+2023-03-07 12:37:32,331 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:05:13,558 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:05:13,637 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:05:13,770 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:05:13,836 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:05:51,580 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:05:51,649 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:05:51,811 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:05:51,878 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:07:49,313 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:07:49,410 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:07:49,491 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:07:49,566 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:38:59,685 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:38:59,743 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:38:59,810 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:38:59,876 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:40:16,602 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:40:16,671 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:40:16,737 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:40:16,795 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:41:18,117 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:41:18,182 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:41:18,251 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:41:18,359 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:42:43,457 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:42:43,528 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:42:43,614 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:42:43,677 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:48:51,713 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:48:51,787 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:48:51,869 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:48:52,007 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:51:31,648 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:51:31,718 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:51:31,798 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:51:31,883 :INFO :test_0003 :Password successfully entered
+2023-03-07 13:52:22,728 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 13:52:22,790 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 13:52:22,878 :INFO :test_0003 :Email successfully entered
+2023-03-07 13:52:22,998 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:00:03,397 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:00:03,462 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:00:03,542 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:00:03,621 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:01:31,075 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:01:31,134 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:01:31,243 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:01:31,321 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:08:37,114 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:08:37,176 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:08:37,301 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:08:37,372 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:27:21,986 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:27:22,075 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:27:22,155 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:27:22,237 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:28:19,004 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:28:19,137 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:28:19,233 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:28:19,370 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:29:08,616 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:29:08,689 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:29:08,777 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:29:08,928 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:30:20,032 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:30:20,132 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:30:20,338 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:30:20,412 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:33:08,544 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:33:08,642 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:33:08,735 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:33:08,846 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:33:42,872 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:33:42,975 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:33:43,186 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:33:43,259 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:36:33,249 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:36:33,339 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:36:33,422 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:36:33,522 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:39:39,109 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:39:39,192 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:39:39,430 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:39:39,514 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:42:58,769 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:42:58,857 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:42:59,065 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:42:59,141 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:45:22,429 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:45:22,501 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:45:22,601 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:45:22,692 :INFO :test_0003 :Password successfully entered
+2023-03-07 14:47:28,191 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 14:47:28,287 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 14:47:28,398 :INFO :test_0003 :Email successfully entered
+2023-03-07 14:47:28,625 :INFO :test_0003 :Password successfully entered
+2023-03-07 16:30:59,057 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 16:30:59,112 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 16:30:59,179 :INFO :test_0003 :Email successfully entered
+2023-03-07 16:30:59,245 :INFO :test_0003 :Password successfully entered
+2023-03-07 16:34:56,477 :INFO :test_0003 :Opened https://electrodom.com.ua
+2023-03-07 16:34:56,538 :INFO :test_0003 :User has entered into personal cabinet
+2023-03-07 16:34:56,601 :INFO :test_0003 :Email successfully entered
+2023-03-07 16:34:56,660 :INFO :test_0003 :Password successfully entered
+2023-03-07 16:34:56,737 :INFO :test_0003 :Users mil and password submitted
+2023-03-07 16:35:02,463 :INFO :test_0003 :User navigated to the personal data page
+2023-03-07 16:35:02,474 :INFO :test_0003 :The firstname and Lastname field are present on the page in order to check whether user indeed has logged in
+2023-03-08 17:44:34,891 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 17:44:34,974 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 17:46:16,419 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 17:46:16,569 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 17:50:41,472 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 17:50:41,631 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 18:04:42,751 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 18:04:42,923 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 18:04:42,996 :INFO :test_0004 :Email successfully entered
+2023-03-08 18:04:43,060 :INFO :test_0004 :Password successfully entered
+2023-03-08 18:04:43,137 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 18:05:09,711 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 18:05:09,828 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 18:05:09,898 :INFO :test_0004 :Email successfully entered
+2023-03-08 18:05:09,974 :INFO :test_0004 :Password successfully entered
+2023-03-08 18:05:10,114 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 18:09:45,455 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 18:09:45,539 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 18:09:45,616 :INFO :test_0004 :Email successfully entered
+2023-03-08 18:09:45,690 :INFO :test_0004 :Password successfully entered
+2023-03-08 18:09:45,777 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 18:18:01,183 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 18:18:01,260 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 18:18:01,330 :INFO :test_0004 :Email successfully entered
+2023-03-08 18:18:01,400 :INFO :test_0004 :Password successfully entered
+2023-03-08 18:18:01,478 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 18:25:03,013 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 18:25:03,128 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 18:25:03,198 :INFO :test_0004 :Email successfully entered
+2023-03-08 18:25:03,272 :INFO :test_0004 :Password successfully entered
+2023-03-08 18:25:03,356 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 18:26:16,734 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 18:26:16,864 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 18:26:16,933 :INFO :test_0004 :Email successfully entered
+2023-03-08 18:26:16,998 :INFO :test_0004 :Password successfully entered
+2023-03-08 18:26:17,074 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 18:27:11,419 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 18:27:11,491 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 18:27:11,560 :INFO :test_0004 :Email successfully entered
+2023-03-08 18:27:11,631 :INFO :test_0004 :Password successfully entered
+2023-03-08 18:27:11,725 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:04:09,304 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:04:09,403 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:04:09,480 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:04:09,544 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:04:09,624 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:07:53,449 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:07:53,604 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:07:53,703 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:07:53,781 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:07:53,864 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:10:01,003 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:10:01,166 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:10:01,245 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:10:01,314 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:10:01,420 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:13:52,958 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:13:53,113 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:13:53,218 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:13:53,280 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:13:53,363 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:14:51,993 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:14:52,061 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:14:52,129 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:14:52,195 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:14:52,289 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:19:48,534 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:19:48,637 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:19:48,712 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:19:48,782 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:19:48,866 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:48:38,726 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:48:38,887 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:48:38,962 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:48:39,033 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:48:39,134 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:50:29,727 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:50:29,810 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:50:29,877 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:50:29,937 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:50:30,030 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 20:58:51,113 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 20:58:51,172 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 20:58:51,249 :INFO :test_0004 :Email successfully entered
+2023-03-08 20:58:51,325 :INFO :test_0004 :Password successfully entered
+2023-03-08 20:58:51,428 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 21:07:39,653 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 21:07:39,715 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 21:07:39,784 :INFO :test_0004 :Email successfully entered
+2023-03-08 21:07:39,859 :INFO :test_0004 :Password successfully entered
+2023-03-08 21:07:39,946 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 21:16:27,531 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 21:16:27,617 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 21:16:27,688 :INFO :test_0004 :Email successfully entered
+2023-03-08 21:16:27,761 :INFO :test_0004 :Password successfully entered
+2023-03-08 21:16:27,830 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 21:17:48,370 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 21:17:48,441 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 21:17:48,585 :INFO :test_0004 :Email successfully entered
+2023-03-08 21:17:48,653 :INFO :test_0004 :Password successfully entered
+2023-03-08 21:17:48,722 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 21:21:16,116 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 21:21:16,177 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 21:21:16,243 :INFO :test_0004 :Email successfully entered
+2023-03-08 21:21:16,314 :INFO :test_0004 :Password successfully entered
+2023-03-08 21:21:16,391 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 21:25:30,072 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 21:25:30,162 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 21:25:30,236 :INFO :test_0004 :Email successfully entered
+2023-03-08 21:25:30,310 :INFO :test_0004 :Password successfully entered
+2023-03-08 21:25:30,378 :INFO :test_0004 :Users mil and password submitted
+2023-03-08 21:33:29,966 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-08 21:33:30,065 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-08 21:33:30,142 :INFO :test_0004 :Email successfully entered
+2023-03-08 21:33:30,213 :INFO :test_0004 :Password successfully entered
+2023-03-08 21:33:30,298 :INFO :test_0004 :Users mil and password submitted
+2023-03-09 12:46:55,646 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-09 12:46:55,825 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-09 12:46:55,936 :INFO :test_0004 :Email successfully entered
+2023-03-09 12:46:56,027 :INFO :test_0004 :Password successfully entered
+2023-03-09 12:46:56,104 :INFO :test_0004 :Users mil and password submitted
+2023-03-09 12:47:52,220 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-09 12:47:52,301 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-09 12:47:52,383 :INFO :test_0004 :Email successfully entered
+2023-03-09 12:47:52,468 :INFO :test_0004 :Password successfully entered
+2023-03-09 12:47:52,622 :INFO :test_0004 :Users mil and password submitted
+2023-03-09 20:23:45,732 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-09 20:23:45,803 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-09 20:23:45,876 :INFO :test_0004 :Email successfully entered
+2023-03-09 20:23:45,974 :INFO :test_0004 :Password successfully entered
+2023-03-09 20:23:46,053 :INFO :test_0004 :Users mil and password submitted
+2023-03-09 20:23:51,877 :INFO :test_0004 :User has chosen the desired item
+2023-03-09 20:24:56,325 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-09 20:24:56,388 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-09 20:24:56,462 :INFO :test_0004 :Email successfully entered
+2023-03-09 20:24:56,592 :INFO :test_0004 :Password successfully entered
+2023-03-09 20:24:56,664 :INFO :test_0004 :Users mil and password submitted
+2023-03-09 20:25:03,933 :INFO :test_0004 :User has chosen the desired item
+2023-03-09 20:26:04,528 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-09 20:26:04,590 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-09 20:26:04,660 :INFO :test_0004 :Email successfully entered
+2023-03-09 20:26:04,731 :INFO :test_0004 :Password successfully entered
+2023-03-09 20:26:04,816 :INFO :test_0004 :Users mil and password submitted
+2023-03-09 20:26:11,084 :INFO :test_0004 :User has chosen the desired item
+2023-03-09 20:53:15,649 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-09 20:53:15,709 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-09 20:53:15,772 :INFO :test_0004 :Email successfully entered
+2023-03-09 20:53:15,839 :INFO :test_0004 :Password successfully entered
+2023-03-09 20:53:15,922 :INFO :test_0004 :Users mil and password submitted
+2023-03-09 20:53:21,662 :INFO :test_0004 :User has chosen the desired item
+2023-03-10 17:18:33,492 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-10 17:18:33,558 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-10 17:18:33,644 :INFO :test_0004 :Email successfully entered
+2023-03-10 17:18:33,723 :INFO :test_0004 :Password successfully entered
+2023-03-10 17:18:33,877 :INFO :test_0004 :Users mil and password submitted
+2023-03-10 17:18:40,233 :INFO :test_0004 :User has chosen the desired item
+2023-03-10 18:29:26,540 :INFO :test_0004 :Opened https://electrodom.com.ua
+2023-03-10 18:29:26,607 :INFO :test_0004 :User has entered into personal cabinet
+2023-03-10 18:29:26,686 :INFO :test_0004 :Email successfully entered
+2023-03-10 18:29:26,759 :INFO :test_0004 :Password successfully entered
+2023-03-10 18:29:26,855 :INFO :test_0004 :Users mil and password submitted
+2023-03-10 18:29:32,992 :INFO :test_0004 :User has chosen the desired item
